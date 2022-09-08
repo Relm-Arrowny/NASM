@@ -1,0 +1,6 @@
+Print hello world
+define message "hello world"
+setup regesters to send output to stdout
+call kernel
+setup regesters for shut down
+call kernel
