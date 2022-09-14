@@ -1,0 +1,8 @@
+data storing how many line and starting number of star
+
+if line limit not reached, inc number of star per line
+  put the star/s line into the ouput buffer
+  inc line counter
+if limit reached jmp to print line to stdout
+
+shut down.
