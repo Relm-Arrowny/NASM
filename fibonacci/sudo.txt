@@ -1,0 +1,13 @@
+start with 1 add the last two number together and print it out on screen
+
+store the first number and zero number
+set maximum number of print out.
+
+
+use c printf to
+print out first numbner
+sum 1st and zero number
+put sum into 1st  and first number into zero
+jump back to print out first number if maximum number no reach
+
+shut down.
